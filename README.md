@@ -1,6 +1,6 @@
 # Euclidean_kmeans 
 
-Python 3.8.3 and Pytorch 1.12.1 implementation for divisive clustering based on Lloyds algorithm and the Euclidean norm.
+Python 3.8.3 and Pytorch 1.12.1 implementation for divisive clustering based on Lloyds algorithm and a Euclidean norm objective.
 
 ## Description
 
